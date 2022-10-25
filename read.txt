@@ -1,2 +1,2 @@
-Git is a good soft!
-Git is very strong!
+Git is a distribute version control system.
+Git is free software.
